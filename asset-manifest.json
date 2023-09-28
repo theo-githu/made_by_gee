@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/theo-githu/made_by_gee.git/static/css/main.073c9b0a.css",
+    "main.js": "/theo-githu/made_by_gee.git/static/js/main.66e7d50c.js",
+    "static/js/787.d20facc3.chunk.js": "/theo-githu/made_by_gee.git/static/js/787.d20facc3.chunk.js",
+    "service-worker.js": "/theo-githu/made_by_gee.git/service-worker.js",
+    "static/media/logo.svg": "/theo-githu/made_by_gee.git/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/theo-githu/made_by_gee.git/index.html",
+    "main.073c9b0a.css.map": "/theo-githu/made_by_gee.git/static/css/main.073c9b0a.css.map",
+    "main.66e7d50c.js.map": "/theo-githu/made_by_gee.git/static/js/main.66e7d50c.js.map",
+    "787.d20facc3.chunk.js.map": "/theo-githu/made_by_gee.git/static/js/787.d20facc3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.66e7d50c.js"
+  ]
+}
