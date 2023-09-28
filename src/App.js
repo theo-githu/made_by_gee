@@ -1,6 +1,11 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import { motion } from "framer-motion";
+
+export const MyComponent = ({ isVisible }) => (
+  <motion.div animate={{ opacity: isVisible ? 1 : 0 }} />
+)
 
 function App() {
   return (
